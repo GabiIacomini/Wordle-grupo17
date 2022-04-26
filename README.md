@@ -4,7 +4,7 @@
 ## Creadores: 
   * Matteo Bobasso, Felipe Vega Torre, Augusto Florio, Gabriel Iacomini y Ramiro Boulos
 ## Caracteristicas:
-  * Dificultades dependiendo la cantidad de palabras:
+  * Dificultades dependiendo la cantidad de letras:
     * Facil (4 letras)
     * Normal (5 letras)
     * Dificil (6 letras)
